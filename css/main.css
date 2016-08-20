@@ -1,0 +1,16 @@
+/* Escribe aqui tu CSS */
+.primero{
+	width: 200px;
+	padding: 50px 70px;
+	border: 20px solid yellow;
+	text-align: center;
+	
+}
+
+.segundo{
+	width: 240px;
+	padding: 50px;
+	border: 20px solid yellow;
+	text-align: left;
+	margin: 0px 0px 0px 500px;
+}
